@@ -1,0 +1,31 @@
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+.env
+venv/
+.venv/
+
+# Jupyter Notebook
+.ipynb_checkpoints
+
+# VS Code
+.vscode/
+
+# Model files (if they're too large)
+# Uncomment if needed
+# *.pkl
+# *.h5
+
+# Data files (if they're too large)
+# Uncomment if needed
+# data/raw/*
+# data/processed/*
+
+# MacOS
+.DS_Store
+
+# Distribution / packaging
+dist/
+build/
+*.egg-info/
